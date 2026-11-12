@@ -1,0 +1,11 @@
+
+streamlit>=1.41
+chromadb>=0.6
+sentence-transformers>=3.3
+pymupdf>=1.25
+beautifulsoup4>=4.12
+pytesseract>=0.3.13
+pillow>=10.0
+openai>=1.58
+python-dotenv>=1.0
+
